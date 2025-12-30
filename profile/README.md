@@ -12,3 +12,7 @@
 -->
 
 这里是 **华中农业大学合成微生物研究小组**。
+
+## Leader
+
+![Chun-Hui Gao](https://avatars.githubusercontent.com/u/107597?s=70&v=4)
